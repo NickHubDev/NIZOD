@@ -390,7 +390,7 @@ Actualmente acepto:
 
 **💬 Discord**
 
-https://discord.gg/zKaKAyCTsa
+https://discord.gg/W8aK7TmKwf
 
 **📧 Correo electrónico**
 
