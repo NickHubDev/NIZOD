@@ -2,9 +2,9 @@
 
 Mi nombre es **Nicolas Gracia**, conocido en Internet como **NIZOLAX**.
 
-Soy desarrollador **Backend** especializado en el desarrollo de soluciones para **Discord**, incluyendo la creación de servidores profesionales, automatización mediante bots y desarrollo de bots personalizados.
+Soy desarrollador **Backend** especializado en el desarrollo de soluciones para **Discord**, incluyendo el diseño de servidores profesionales, la automatización mediante bots y el desarrollo de bots completamente personalizados.
 
-Mi objetivo es ofrecer un servicio cercano, transparente y de calidad, manteniendo una comunicación constante con el cliente durante todo el proyecto.
+Mi objetivo es ofrecer un servicio cercano, transparente y de calidad, manteniendo una comunicación constante durante todo el proyecto para que el cliente conozca en todo momento el estado del trabajo.
 
 ---
 
@@ -12,37 +12,42 @@ Mi objetivo es ofrecer un servicio cercano, transparente y de calidad, mantenien
 
 Todos los proyectos siguen el mismo proceso para garantizar una buena organización y un resultado de calidad.
 
-### 1️⃣ Reunión inicial
+## 1️⃣ Reunión inicial
 
-Analizamos el proyecto y sus necesidades.
+Analizamos el proyecto, sus necesidades y los objetivos que desea conseguir.
 
-### 2️⃣ Planificación
+## 2️⃣ Planificación
 
-Defino la solución más adecuada y explico cómo se realizará el trabajo.
+Diseño la solución más adecuada y explico cómo se desarrollará el proyecto.
 
-### 3️⃣ Presupuesto
+## 3️⃣ Presupuesto
 
 Se entrega un presupuesto detallado **sin ningún compromiso**.
 
-### 4️⃣ Desarrollo
+## 4️⃣ Desarrollo
 
 Comienza el desarrollo del proyecto.
 
-Dependiendo del tipo de servicio, el cliente podrá solicitar varias reuniones de seguimiento para conocer el estado del proyecto.
+Dependiendo del servicio contratado, el cliente podrá solicitar reuniones de seguimiento para conocer el progreso del trabajo.
 
-### 5️⃣ Pruebas
+## 5️⃣ Pruebas
 
-Antes de la entrega se realizan diferentes pruebas para comprobar que todo funciona correctamente.
+Antes de la entrega se realizan diferentes pruebas para verificar que todo funciona correctamente.
 
-### 6️⃣ Entrega
+## 6️⃣ Entrega
 
-Se entrega el proyecto completamente terminado.
+Se entrega el proyecto completamente finalizado.
 
-### 7️⃣ Garantía
+## 7️⃣ Garantía
 
-Todos los servicios incluyen **3 meses de garantía** para la corrección de errores relacionados con el desarrollo realizado.
+Todos los servicios incluyen **3 meses de garantía** para corregir errores relacionados con el desarrollo realizado.
 
-> La garantía **no incluye** nuevas funcionalidades, modificaciones solicitadas tras la entrega ni problemas derivados de servicios o bots de terceros.
+> **La garantía no incluye:**
+>
+> - Nuevas funcionalidades.
+> - Cambios solicitados tras la entrega.
+> - Problemas ocasionados por modificaciones realizadas por terceros.
+> - Cambios provocados por actualizaciones de Discord o bots externos.
 
 ---
 
@@ -52,9 +57,9 @@ Todos los servicios incluyen **3 meses de garantía** para la corrección de err
 |-------------------------------|---------:|
 | 🖌️ Diseño de servidores Discord | **15 €** |
 | 🛠️ Optimización de servidores | **10 €** |
-| ⚙️ Configuración de bots | **20 €** |
+| ⚙️ Configuración y automatización de bots | **20 €** |
 | 🤖 Desarrollo de bots personalizados | **40 €** |
-| 🛡️ Moderación de comunidades | **15 € / hora** |
+| 🛡️ Moderación de comunidades | **15 €/hora** |
 
 > **Todos los precios son orientativos.**
 >
@@ -72,7 +77,7 @@ Incluye:
 
 - Organización de categorías
 - Organización de canales
-- Roles básicos
+- Configuración de roles
 - Configuración de permisos
 - Configuración inicial del servidor
 - Configuración básica de un bot
@@ -90,7 +95,7 @@ Todo lo incluido en el plan Básico, además de:
 - Roles por reacción
 - Bienvenida personalizada
 - Canales de soporte
-- Organización avanzada del servidor
+- Organización avanzada
 
 ---
 
@@ -101,7 +106,7 @@ Todo lo incluido en Standard, además de:
 - Sistema de verificación
 - Protección Anti-Raid
 - Configuración avanzada de AutoMod
-- Automatizaciones avanzadas
+- Automatizaciones
 - Optimización completa de la experiencia del usuario
 - Documentación del servidor
 - Soporte prioritario
@@ -132,7 +137,7 @@ Todo lo anterior, además de:
 - Optimización de roles
 - Revisión de bots instalados
 - Configuración de nuevos sistemas
-- Mejora de la experiencia de nuevos usuarios
+- Mejora de la experiencia para nuevos usuarios
 
 ---
 
@@ -140,7 +145,7 @@ Todo lo anterior, además de:
 
 Todo lo anterior, además de:
 
-- Auditoría completa del servidor
+- Auditoría completa
 - Optimización de automatizaciones
 - Revisión de seguridad
 - Configuración avanzada de permisos
@@ -162,12 +167,12 @@ Compatible con bots como:
 
 ## 🟢 Básica — Desde 20 €
 
-Hasta 5 configuraciones.
+Hasta **5 configuraciones**.
 
 Ejemplos:
 
-- Bienvenidas
-- Despedidas
+- Bienvenida
+- Despedida
 - Moderación básica
 - Autoroles
 - Embeds
@@ -176,14 +181,14 @@ Ejemplos:
 
 ## 🔵 Standard — Desde 35 €
 
-Hasta 10 configuraciones.
+Hasta **10 configuraciones**.
 
 Puede incluir:
 
 - Tickets
 - Logs
-- Niveles
-- Reaction Roles
+- Sistema de niveles
+- Roles por reacción
 - Sugerencias
 - AutoMod
 
@@ -191,7 +196,7 @@ Puede incluir:
 
 ## 🟣 Premium — Desde 60 €
 
-Hasta 20 configuraciones.
+Hasta **20 configuraciones**.
 
 Ideal para comunidades que necesitan una configuración completa de varios bots trabajando conjuntamente.
 
@@ -203,15 +208,15 @@ Todos los bots se desarrollan específicamente para las necesidades del cliente.
 
 ## 🟢 Básico — Desde 40 €
 
-Ideal para pequeños proyectos.
+Puede incluir hasta **3 sistemas personalizados**.
 
-Puede incluir hasta **3 sistemas personalizados**, por ejemplo:
+Ejemplos:
 
 - Bienvenidas
 - Despedidas
 - Moderación
-- Comandos informativos
 - Utilidades
+- Comandos informativos
 
 ---
 
@@ -241,7 +246,7 @@ Puede incluir:
 - Bases de datos complejas
 - Sistemas de economía
 - Integraciones externas
-- Automatizaciones avanzadas
+- Automatizaciones
 - IA
 - Sistemas completamente personalizados
 
@@ -258,12 +263,64 @@ Puede incluir:
 - Moderación manual
 - Atención a usuarios
 - Gestión de incidencias
-- Control de normas
+- Aplicación de normas
 - Organización de eventos
 - Gestión de tickets
-- Supervisión de la comunidad
+- Supervisión general de la comunidad
 
 > Para colaboraciones de larga duración se pueden acordar presupuestos mensuales.
+
+---
+
+# 📦 | Planes
+
+## 🚀 Starter — 35 €
+
+Ideal para comunidades que comienzan.
+
+Incluye:
+
+- Diseño completo del servidor
+- Organización profesional
+- Roles y permisos
+- Configuración inicial
+- Configuración básica de un bot
+
+---
+
+## 🌎 Community — 70 €
+
+Todo lo anterior, además de:
+
+- Sistema de tickets
+- Autoroles
+- Bots configurados
+- Bienvenidas
+- Optimización avanzada
+
+---
+
+## 💼 Professional — 120 €
+
+Todo lo anterior, además de:
+
+- Sistema de logs
+- Sistema de niveles
+- Organización profesional
+- Optimización completa
+- Configuración avanzada
+
+---
+
+## 👑 Premium — 200 €
+
+Incluye todo lo anterior, además de:
+
+- Automatizaciones avanzadas
+- Documentación
+- Soporte prioritario
+- Configuración Premium
+- Optimización completa de la experiencia del servidor
 
 ---
 
@@ -279,9 +336,9 @@ Cada proyecto recibe un presupuesto personalizado según su complejidad.
 
 ### ¿Cuánto tarda un proyecto?
 
-Depende del servicio solicitado.
+Dependerá del servicio contratado.
 
-El tiempo estimado se indicará antes de comenzar el desarrollo.
+Antes de comenzar recibirás una estimación del tiempo de desarrollo.
 
 ---
 
@@ -289,7 +346,7 @@ El tiempo estimado se indicará antes de comenzar el desarrollo.
 
 Sí.
 
-Durante el desarrollo se podrán realizar cambios razonables relacionados con el proyecto acordado.
+Durante el desarrollo podrás solicitar cambios razonables relacionados con el proyecto acordado.
 
 ---
 
@@ -307,13 +364,43 @@ Dependerá del tipo de proyecto y del presupuesto acordado.
 
 ---
 
+# 💳 | Métodos de pago
+
+Actualmente acepto:
+
+- PayPal
+- Bizum
+
+> Para proyectos de mayor tamaño podrá solicitarse un anticipo antes de comenzar el desarrollo.
+
+---
+
+# 📜 | Condiciones del servicio
+
+- Para proyectos personalizados podrá solicitarse un anticipo antes de comenzar el desarrollo.
+- El desarrollo comenzará una vez aceptado el presupuesto y confirmado el pago inicial (cuando corresponda).
+- Las modificaciones solicitadas fuera del alcance inicial podrán generar un coste adicional.
+- Cualquier cambio que afecte al presupuesto será comunicado previamente al cliente.
+- El cliente será informado del progreso del proyecto durante todo el desarrollo.
+- El abandono del proyecto por decisión del cliente no garantiza la devolución del anticipo ya invertido en horas de trabajo.
+
+---
+
 # 📩 | Contacto
 
-**Discord: [NIZOD](https://discord.gg/zKaKAyCTsa)**
+**💬 Discord**
 
-**Correo electrónico: nizolax.homehub@gmail.com**
+https://discord.gg/zKaKAyCTsa
 
-**GitHub: https://github.com/NickHubDev**
+**📧 Correo electrónico**
 
-**Portfolio: En un futuro**
+nizolax.homehub@gmail.com
+
+**💻 GitHub**
+
+https://github.com/NickHubDev
+
+**🌐 Portfolio**
+
+Actualmente en desarrollo.
 
